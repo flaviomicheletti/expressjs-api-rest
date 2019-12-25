@@ -16,3 +16,5 @@ __Run:__
 __Testing:__
 
 Use [Postman](https://www.getpostman.com/), export file `expressjs-api-rest.postman-collection.json`.
+
+![postman.png](postman.png)
