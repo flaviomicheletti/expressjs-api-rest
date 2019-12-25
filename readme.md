@@ -1,6 +1,6 @@
 # API Rest em Express.js
 
-![ExpressJS.png](ExpressJS.png)
+![express-api.png](express-api.png)
 
 __Install and Run:__
 
