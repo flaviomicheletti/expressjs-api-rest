@@ -2,7 +2,7 @@
 
 ![express-api.png](express-api.png)
 
-__Install and Run:__
+__Install:__
 
     git clone https://github.com/flaviomicheletti/expressjs-api-rest
     npm install
