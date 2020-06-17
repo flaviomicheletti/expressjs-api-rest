@@ -1,4 +1,4 @@
-![express-api.png](express-api.png)
+![postman](https://user-images.githubusercontent.com/1257048/84909345-f4123c80-b08b-11ea-8acf-91fa6aa8ef1e.png)
 
 # API Rest em Express.js
 
